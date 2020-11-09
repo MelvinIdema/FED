@@ -4,7 +4,7 @@
 ## Intake (week 1)
 **Je startniveau:** De Zwarte Piste
 
-**Je focus:** Responsive
+**Je focus:** Surface Laag
 
 **Je opdracht:** https://www.netflix.com/
 

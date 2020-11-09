@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7013c24f-3bb3-4ac2-8aec-015a8faf9250" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,14 +33,30 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604909814142</updated>
-      <workItem from="1604909816231" duration="730000" />
+      <workItem from="1604909816231" duration="1293000" />
     </task>
+    <task id="LOCAL-00001" summary="Cleanup readme.md">
+      <created>1604910696533</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604910696533</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Cleanup readme.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="Cleanup readme.md" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="776" y="105" key="CommitChangelistDialog2" timestamp="1604910696141">
+      <screen x="0" y="23" width="1920" height="1008" />
+    </state>
+    <state x="776" y="105" key="CommitChangelistDialog2/1920.23.1440.877/0.23.1920.1008@0.23.1920.1008" timestamp="1604910696141" />
     <state x="829" y="431" key="Github.ShareDialog" timestamp="1604910635516">
       <screen x="0" y="23" width="1920" height="1008" />
     </state>
@@ -50,5 +65,9 @@
       <screen x="0" y="23" width="1920" height="1008" />
     </state>
     <state x="770" y="239" key="Github.UntrackedFilesDialog/1920.23.1440.877/0.23.1920.1008@0.23.1920.1008" timestamp="1604910642409" />
+    <state x="560" y="267" key="Vcs.Push.Dialog.v2" timestamp="1604910698348">
+      <screen x="0" y="23" width="1920" height="1008" />
+    </state>
+    <state x="560" y="267" key="Vcs.Push.Dialog.v2/1920.23.1440.877/0.23.1920.1008@0.23.1920.1008" timestamp="1604910698348" />
   </component>
 </project>
