@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7013c24f-3bb3-4ac2-8aec-015a8faf9250" name="Default Changelist" comment="" />
+    <list default="true" id="7013c24f-3bb3-4ac2-8aec-015a8faf9250" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1k2s2J03Qtmld5h1bQkz8nFlPO2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -15,6 +22,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -26,11 +34,21 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604909814142</updated>
-      <workItem from="1604909816231" duration="600000" />
+      <workItem from="1604909816231" duration="730000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="829" y="431" key="Github.ShareDialog" timestamp="1604910635516">
+      <screen x="0" y="23" width="1920" height="1008" />
+    </state>
+    <state x="829" y="431" key="Github.ShareDialog/1920.23.1440.877/0.23.1920.1008@0.23.1920.1008" timestamp="1604910635516" />
+    <state x="770" y="239" key="Github.UntrackedFilesDialog" timestamp="1604910642409">
+      <screen x="0" y="23" width="1920" height="1008" />
+    </state>
+    <state x="770" y="239" key="Github.UntrackedFilesDialog/1920.23.1440.877/0.23.1920.1008@0.23.1920.1008" timestamp="1604910642409" />
   </component>
 </project>
