@@ -1,0 +1,23 @@
+{
+  "name": "fed",
+  "version": "1.0.0",
+  "description": "**Auteur:** Melvin Idema",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MelvinIdema/FED.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MelvinIdema/FED/issues"
+  },
+  "homepage": "https://github.com/MelvinIdema/FED#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.13",
+    "gulp": "^4.0.2"
+  }
+}
