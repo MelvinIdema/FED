@@ -1,8 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7013c24f-3bb3-4ac2-8aec-015a8faf9250" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+    <list default="true" id="7013c24f-3bb3-4ac2-8aec-015a8faf9250" name="Default Changelist" comment="Cleanup readme.md">
+      <change afterPath="$PROJECT_DIR$/components/header.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/previews.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/standard-row.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/tabbar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/together.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/top-menu.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/watch.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/avatar-blue-smiley.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/chromecast-icon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logos/alteredcarbon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logos/familyguy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logos/greathacklogo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logos/orangeisthenewblack.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logos/rickandmorty.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logos/strangerthings.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/netflix-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/the_crown_header-img-bad.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/the_crown_header-img.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/thegreathack.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/thumbnails/alteredcarbon.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/thumbnails/familyguy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/thumbnails/orangeisthenewblack.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/thumbnails/rickandmorty.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/thumbnails/strangerthings.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/thumbnails/thegreathack.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/fontawesome.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulpfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/gulpfile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/dummy-plaatje.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,17 +43,38 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1k2s2J03Qtmld5h1bQkz8nFlPO2" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.16.1" />
+    <property name="javascript.nodejs.core.library.typings.version" value="12.19.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images/logos" />
+      <recent name="$PROJECT_DIR$/images/thumbnails" />
+      <recent name="$PROJECT_DIR$/images" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/styles" />
+      <recent name="$PROJECT_DIR$/components" />
+      <recent name="$PROJECT_DIR$/images/logos" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -34,6 +85,13 @@
       <option name="presentableId" value="Default" />
       <updated>1604909814142</updated>
       <workItem from="1604909816231" duration="1293000" />
+      <workItem from="1606942390174" duration="9388000" />
+      <workItem from="1607031879463" duration="5153000" />
+      <workItem from="1607361944464" duration="296000" />
+      <workItem from="1607545248178" duration="3526000" />
+      <workItem from="1608239379821" duration="2272000" />
+      <workItem from="1609172651715" duration="595000" />
+      <workItem from="1609960733276" duration="13896000" />
     </task>
     <task id="LOCAL-00001" summary="Cleanup readme.md">
       <created>1604910696533</created>
@@ -42,20 +100,34 @@
       <option name="project" value="LOCAL" />
       <updated>1604910696533</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Cleanup readme.md">
+      <created>1606995571405</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1606995571411</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Cleanup readme.md" />
     <option name="LAST_COMMIT_MESSAGE" value="Cleanup readme.md" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="776" y="105" key="CommitChangelistDialog2" timestamp="1604910696141">
-      <screen x="0" y="23" width="1920" height="1008" />
+    <state x="1078" y="279" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1609972956146">
+      <screen x="0" y="25" width="1920" height="997" />
     </state>
+    <state x="1078" y="279" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1920.23.1440.877/0.23.1920.1005@0.23.1920.1005" timestamp="1607000466684" />
+    <state x="1078" y="279" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1920.25.1440.875/0.25.1920.997@0.25.1920.997" timestamp="1609972956146" />
+    <state x="510" y="127" key="CommitChangelistDialog2" timestamp="1606995570643">
+      <screen x="0" y="23" width="1920" height="1004" />
+    </state>
+    <state x="510" y="127" key="CommitChangelistDialog2/1920.23.1440.877/0.23.1920.1004@0.23.1920.1004" timestamp="1606995570643" />
     <state x="776" y="105" key="CommitChangelistDialog2/1920.23.1440.877/0.23.1920.1008@0.23.1920.1008" timestamp="1604910696141" />
     <state x="829" y="431" key="Github.ShareDialog" timestamp="1604910635516">
       <screen x="0" y="23" width="1920" height="1008" />
@@ -65,9 +137,14 @@
       <screen x="0" y="23" width="1920" height="1008" />
     </state>
     <state x="770" y="239" key="Github.UntrackedFilesDialog/1920.23.1440.877/0.23.1920.1008@0.23.1920.1008" timestamp="1604910642409" />
-    <state x="560" y="267" key="Vcs.Push.Dialog.v2" timestamp="1604910698348">
-      <screen x="0" y="23" width="1920" height="1008" />
+    <state x="560" y="266" key="Vcs.Push.Dialog.v2" timestamp="1606995589036">
+      <screen x="0" y="23" width="1920" height="1004" />
     </state>
+    <state x="560" y="266" key="Vcs.Push.Dialog.v2/1920.23.1440.877/0.23.1920.1004@0.23.1920.1004" timestamp="1606995589036" />
     <state x="560" y="267" key="Vcs.Push.Dialog.v2/1920.23.1440.877/0.23.1920.1008@0.23.1920.1008" timestamp="1604910698348" />
+    <state x="982" y="244" width="670" height="676" key="search.everywhere.popup" timestamp="1609981150590">
+      <screen x="0" y="25" width="1920" height="998" />
+    </state>
+    <state x="982" y="244" width="670" height="676" key="search.everywhere.popup/1920.25.1440.875/0.25.1920.998@0.25.1920.998" timestamp="1609981150590" />
   </component>
 </project>

@@ -5,7 +5,7 @@ function serve(cb) {
     browserSync.init({
         server: './'
     });
-    watch(['*.html', 'styles/**/*.css', 'scripts/**/*.js']).on('change', browserSync.reload);
+    watch(['**/*.html', 'styles/**/*.css', 'scripts/**/*.js']).on('change', browserSync.reload);
     cb();
 }
 

@@ -1,0 +1,114 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport"
+        content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel="stylesheet" href="../styles/style.css">
+  <title>Document</title>
+  <style>
+      .top-navigation {
+          z-index: 2;
+          box-sizing: border-box;
+          position: fixed;
+          transform: translateX(-50%);
+          top: 0; left: 50%;
+          width: 100vw;
+          padding: 18px;
+          background: linear-gradient(to bottom, rgba(0, 0, 0, .85), rgba(0, 0, 0, .6) 55%, rgba(0, 0, 0, 0) 100%);
+          max-width: var(--break-point);
+      }
+
+      .top-navigation,
+      .top-navigation a {
+          color: #fff;
+      }
+
+      .bottom-bar {
+          display: flex;
+          align-items: center;
+          list-style-type: none;
+          margin: 0 auto;
+          padding: 0;
+          height: 42px;
+          width: 100%;
+      }
+
+      .bottom-bar {
+          box-sizing: border-box;
+          justify-content: space-around;
+          padding: 0 12px;
+          margin-bottom: 8px;
+      }
+
+      .bottom-bar li,
+      .bottom-bar button {
+          height: 100%;
+      }
+
+      .bottom-bar button {
+          appearance: none;
+          -webkit-appearance: none;
+          border: none;
+          background: none;
+          color: white;
+          font-size: 16px;
+      }
+
+      .bottom-bar button:hover {
+          cursor: pointer;
+      }
+
+      .top-bar {
+          display: flex;
+          align-items: center;
+          list-style-type: none;
+          margin: 0 auto;
+          padding: 0;
+          height: 42px;
+          width: 100%;
+      }
+
+      .top-bar a {
+          color: white;
+      }
+
+      .top-bar li,
+      .top-bar img {
+          height: 100%;
+      }
+
+      .top-bar .top-bar_logo {
+          margin-right: auto;
+      }
+
+      .top-bar_icon {
+          max-height: 30px;
+          margin: 0 16px;
+      }
+
+      .top-bar_icon svg {
+          margin-top: 5px;
+      }
+  </style>
+</head>
+<body>
+
+<nav class="top-navigation">
+  <ul class="top-bar">
+    <li class="top-bar_logo"><a href="/"><img src="../images/netflix-icon.png" alt="Netflix Icon"></a></li>
+    <li class="top-bar_icon"><a href="#"><svg width="24" height="24" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><path d="M1 18v3h3c0-1.66-1.34-3-3-3zm0-4v2c2.76 0 5 2.24 5 5h2c0-3.87-3.13-7-7-7zm0-4v2a9 9 0 019 9h2c0-6.08-4.93-11-11-11zm20-7H3c-1.1 0-2 .9-2 2v3h2V5h18v14h-7v2h7c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2z" fill="currentColor"/><path d="M0 0h24v24H0z"/></g></svg></a></li>
+    <li class="top-bar_icon"><a href="#"><img src="../images/avatar-blue-smiley.png" alt="Profile"></a></li>
+  </ul>
+  <ul class="bottom-bar">
+    <li><button>Series</button></li>
+    <li><button>Films</button></li>
+    <li><button>Mijn lijst</button></li>
+  </ul>
+</nav>
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam beatae consequuntur error est, mollitia nostrum nulla placeat? Blanditiis distinctio, doloribus eius eligendi id libero minima nam rem sit voluptate? Atque consequuntur dicta dignissimos ex ipsa labore magni nam nemo non repudiandae? A aliquam aperiam commodi corporis cum distinctio dolor eaque error eveniet exercitationem expedita facilis iste laborum minima, molestias non obcaecati odio pariatur quibusdam similique sint sit voluptatum. A assumenda consequuntur doloribus eaque explicabo laudantium, necessitatibus provident quisquam similique ullam? Ad, beatae cum doloremque ipsam nesciunt quia quo quos reprehenderit saepe temporibus ullam vel voluptates! Aperiam aut commodi deleniti distinctio, expedita fuga illo non porro possimus quidem quisquam voluptatem. Accusamus dignissimos eaque earum esse, eum itaque, labore maiores modi neque numquam odio placeat quaerat velit. Beatae cum, dolor ducimus ex iste itaque molestias, nam odio, pariatur quasi sequi tempore vero vitae? Alias est id maxime mollitia neque quas tenetur? Ab ad commodi debitis fugiat laboriosam molestias quia? Accusamus dignissimos molestias provident vel voluptatibus. Ad aut cupiditate dicta, explicabo facere harum laborum magni minus, nemo, nesciunt nihil non perspiciatis quos similique suscipit vitae voluptatum. Asperiores dolores earum facere ipsam nulla quas sunt! Animi corporis cupiditate, debitis distinctio dolorem eaque earum ipsa laudantium, libero molestiae nam natus pariatur quia quidem recusandae reiciendis repellat suscipit tempora voluptas, voluptatum. Ad commodi consequuntur delectus eaque, laborum magnam necessitatibus nulla obcaecati praesentium provident quia similique totam vitae! Ad asperiores autem deleniti deserunt dolores dolorum ea enim, et incidunt ipsum labore maxime sequi ut velit voluptates! Adipisci cupiditate harum laudantium? Adipisci alias aperiam beatae cupiditate deleniti doloremque eligendi error esse explicabo illum inventore iure magni minus, nisi nostrum numquam praesentium quam ratione repellat soluta vero vitae voluptate. Amet eum illum ipsam temporibus! Accusantium animi asperiores beatae blanditiis consectetur cum debitis delectus deleniti dignissimos earum eligendi error expedita facere, harum illo illum laboriosam magni molestiae molestias nemo officia porro quas quasi qui quia quod ratione repudiandae sed soluta vel. Accusamus alias aliquid aperiam asperiores at atque commodi consectetur cum eaque eligendi eos ex, facilis, iste iure iusto maiores molestias nihil nostrum numquam odio officia officiis perspiciatis porro possimus quae quaerat quas quibusdam quo ratione repudiandae sapiente sed voluptate voluptatibus! Alias, architecto blanditiis commodi cumque debitis deleniti magni nesciunt obcaecati quaerat sit ut vel, velit. Accusamus aliquam consequuntur corporis deserunt dolore doloremque eos et eum excepturi fugit harum incidunt ipsa ipsum iure maiores minima modi nemo numquam obcaecati, odio odit officia officiis omnis provident quas repellendus temporibus veniam veritatis voluptates voluptatibus. Amet, cupiditate dignissimos dolor eaque laborum quia voluptatem. A consectetur doloribus illum modi officia quisquam reiciendis, tenetur voluptas. Alias aliquam amet aperiam autem, beatae dolorem doloremque eius eos esse et eveniet excepturi facilis fugit illo magni nam obcaecati odit perferendis perspiciatis possimus quam repellat saepe sequi sint soluta, suscipit tenetur ut, veritatis voluptas voluptatem. Eligendi illum iure molestiae non, numquam ut? Accusamus adipisci animi beatae iste quasi quos tenetur vel. Consequatur dolorem eos esse fugit libero numquam placeat possimus quae, quasi reprehenderit. A aperiam architecto at dignissimos dolores ex exercitationem fugiat impedit magnam nostrum numquam, praesentium quidem, quis sint ullam, vel velit veritatis? Distinctio expedita itaque mollitia odit pariatur sit velit veniam voluptatibus? Esse excepturi laborum molestiae nulla placeat ratione reprehenderit totam. Dicta distinctio esse id illum iusto quos tempore? Atque cupiditate error labore, natus nisi possimus quas quibusdam. Accusamus, architecto consequatur dolores ea earum est et ex impedit itaque libero molestiae molestias natus neque perferendis perspiciatis quam qui quibusdam repellat, saepe vel velit veniam voluptatem! Blanditiis eos labore libero nesciunt nobis suscipit tenetur. Debitis dolores ducimus error est ex fugiat fugit ipsum libero magni maxime, modi nulla quis quos rem temporibus totam vel, voluptatem. Aliquam at in omnis rem voluptatibus! Accusantium cumque nisi pariatur reprehenderit similique! Assumenda itaque nostrum sint! A alias architecto asperiores aspernatur aut consequatur dolore ea, est eum ex fugiat harum in labore minima minus mollitia nam odio porro quae quis, quisquam, quod sed sit temporibus ullam veniam voluptas! Ab asperiores aut debitis deleniti deserunt, dolore, ducimus ea eligendi eos esse eum facilis fugiat fugit id illum laboriosam laudantium necessitatibus nulla possimus provident qui quis quo reiciendis repellendus sunt suscipit tempora unde ut veritatis voluptatibus? Accusantium aspernatur beatae blanditiis consequatur delectus dignissimos eius id ipsam maiores, minus, nisi quaerat quis sunt, ullam vero? Atque eveniet neque quibusdam saepe! Aliquam, aliquid amet assumenda aut cum delectus distinctio, dolorem dolores eius eligendi eos, excepturi exercitationem explicabo fugiat id magni minima nisi numquam odio officiis perferendis porro recusandae reprehenderit sequi sunt suscipit temporibus tenetur veritatis voluptates voluptatum. Aliquid dolor doloribus ducimus minus necessitatibus numquam quasi recusandae? Dignissimos eius esse expedita facere illo, impedit iste minus, molestias, nobis non nulla officiis perferendis placeat possimus praesentium quisquam ut veritatis vitae voluptas voluptate. Aspernatur, commodi cum ducimus eos eveniet illum laborum minima nulla perspiciatis voluptatem. Accusamus accusantium ad aspernatur assumenda at cumque dicta incidunt, laudantium magnam nesciunt nobis placeat sapiente suscipit tempora ut! A accusantium aspernatur libero nesciunt quis reiciendis reprehenderit rerum temporibus veritatis. Ab, alias beatae deleniti, dolorum eius eligendi eum incidunt obcaecati omnis quos sed sunt totam ullam! Alias animi assumenda at blanditiis culpa cupiditate distinctio dolorem doloribus, earum eligendi eveniet ipsa iste labore libero non numquam quo quos rem repudiandae rerum sed sunt unde vel? A aliquam deleniti, doloremque dolores doloribus eaque facilis ipsam iste maiores nam officia pariatur sed sunt ullam veniam. A accusantium consectetur dicta, eos illo iste libero nemo nobis officiis placeat provident qui ratione suscipit temporibus ullam. Ad aliquid consequuntur eligendi ipsam labore non, porro praesentium quisquam ratione vel! Ab alias debitis dignissimos exercitationem magni natus quae quia quo quos sed. Aperiam blanditiis dolores ex impedit iste neque quam quasi quisquam voluptas. Architecto consequuntur culpa, cum distinctio dolore eaque eum excepturi fugiat in laborum maiores necessitatibus nobis numquam odit optio porro praesentium quae quasi quod recusandae saepe sapiente sed sequi tempora ut voluptas voluptates voluptatibus. Alias, deserunt doloribus dolorum earum hic ut voluptate voluptatem. Accusamus adipisci asperiores blanditiis debitis delectus, deleniti distinctio doloremque doloribus dolorum ducimus eligendi enim eos ex hic illo incidunt iure maiores maxime numquam obcaecati officiis perferendis praesentium provident quae qui quos rem rerum sed suscipit temporibus veniam voluptas, voluptatem voluptates. Accusamus, adipisci deleniti doloribus earum illum impedit incidunt iure iusto, maxime minima mollitia nobis perspiciatis sed. Beatae cum cumque ex fugit iste labore laboriosam natus nemo nihil nobis, numquam possimus, quaerat quia quidem ratione sed temporibus velit voluptas, voluptate voluptatibus! Ad adipisci amet culpa deleniti, deserunt dolorem exercitationem illum impedit laborum nesciunt nostrum placeat quam quis rerum saepe soluta, suscipit tenetur voluptate! Amet animi consequuntur corporis cupiditate dolore dolorum eius excepturi expedita fugit itaque, molestiae natus necessitatibus nemo nihil nobis, perspiciatis possimus ratione repellendus sed suscipit tenetur ut vitae. Ea magni minima minus provident reprehenderit! Beatae doloribus explicabo illo incidunt laudantium provident quibusdam rem repellat ullam veritatis? Atque delectus eveniet harum, nam qui quia veritatis. Adipisci doloremque earum illum, in numquam odit quia voluptatibus. Delectus dignissimos ducimus eaque enim eveniet explicabo incidunt inventore ipsa laudantium magni minima nobis omnis quidem quisquam repellat, temporibus unde. Ad aliquid cumque deleniti eos, ex inventore nihil quidem, quis sed similique, suscipit tempora. Accusantium aperiam consequuntur cumque enim fugit laboriosam minima nesciunt non porro quae quaerat quia suscipit, temporibus totam veritatis vitae voluptas voluptatibus.
+
+</body>
+</html>
