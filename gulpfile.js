@@ -1,12 +1,13 @@
-const {watch} = require('gulp');
-const browserSync = require('browser-sync').create();
+const { watch } = require("gulp");
+const browsersync = require("browser-sync");
 
 function serve(cb) {
-    browserSync.init({
-        server: './'
-    });
-    watch(['**/*.html', 'styles/**/*.css', 'scripts/**/*.js']).on('change', browserSync.reload);
+    browsersync.init({
+        server: "./"
+    })
+
+    watch(["**/*.html", "**/*.css", "**/*.js"]).on('change', browsersync.reload);
     cb();
 }
 
-exports.serve= serve;
+exports.serve = serve;

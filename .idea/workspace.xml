@@ -1,38 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7013c24f-3bb3-4ac2-8aec-015a8faf9250" name="Default Changelist" comment="Cleanup readme.md">
-      <change afterPath="$PROJECT_DIR$/components/header.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/previews.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/standard-row.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/tabbar.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/together.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/top-menu.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/watch.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/avatar-blue-smiley.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/chromecast-icon.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/logos/alteredcarbon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/logos/familyguy.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/logos/greathacklogo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/logos/orangeisthenewblack.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/logos/rickandmorty.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/logos/strangerthings.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/netflix-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/the_crown_header-img-bad.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/the_crown_header-img.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/thegreathack.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/thumbnails/alteredcarbon.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/thumbnails/familyguy.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/thumbnails/orangeisthenewblack.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/thumbnails/rickandmorty.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/thumbnails/strangerthings.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/thumbnails/thegreathack.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/fontawesome.css" afterDir="false" />
+    <list default="true" id="7013c24f-3bb3-4ac2-8aec-015a8faf9250" name="Default Changelist" comment="Initial commit">
+      <change afterPath="$PROJECT_DIR$/backup/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backup/gulpfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backup/images/avatar-blue-smiley.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backup/images/chromecast-icon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backup/images/logos/alteredcarbon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backup/images/logos/familyguy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backup/images/logos/greathacklogo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backup/images/logos/orangeisthenewblack.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backup/images/logos/rickandmorty.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backup/images/logos/strangerthings.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backup/images/netflix-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backup/images/the_crown_header-img-bad.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backup/images/the_crown_header-img.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backup/images/thegreathack.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backup/images/thumbnails/alteredcarbon.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backup/images/thumbnails/familyguy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backup/images/thumbnails/orangeisthenewblack.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backup/images/thumbnails/rickandmorty.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backup/images/thumbnails/strangerthings.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backup/images/thumbnails/thegreathack.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backup/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backup/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backup/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backup/styles/components.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/great-hack-nserie-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/thegreathackframe.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/info.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readme_images/screenshot1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readme_images/screenshot2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readme_images/screenshot3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/header.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/previews.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/standard-row.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/tabbar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/together.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/top-menu.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/watch.html" beforeDir="false" afterPath="$PROJECT_DIR$/backup/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gulpfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/gulpfile.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/dummy-plaatje.svg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/backup/scripts/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/fontawesome.css" beforeDir="false" afterPath="$PROJECT_DIR$/backup/styles/fontawesome.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/backup/styles/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +59,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="ProjectId" id="1k2s2J03Qtmld5h1bQkz8nFlPO2" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -54,26 +80,37 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="javascript.nodejs.core.library.configured.version" value="12.16.1" />
-    <property name="javascript.nodejs.core.library.typings.version" value="12.19.8" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JavaScript" />
+    <property name="javascript.nodejs.core.library.configured.version" value="14.15.4" />
+    <property name="javascript.nodejs.core.library.typings.version" value="14.14.22" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/images/logos" />
-      <recent name="$PROJECT_DIR$/images/thumbnails" />
-      <recent name="$PROJECT_DIR$/images" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/images" />
       <recent name="$PROJECT_DIR$/styles" />
       <recent name="$PROJECT_DIR$/components" />
       <recent name="$PROJECT_DIR$/images/logos" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/readme_images" />
+      <recent name="$PROJECT_DIR$/images" />
+      <recent name="$PROJECT_DIR$/backup" />
+      <recent name="$PROJECT_DIR$/images/logos" />
+      <recent name="$PROJECT_DIR$/images/thumbnails" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -91,7 +128,11 @@
       <workItem from="1607545248178" duration="3526000" />
       <workItem from="1608239379821" duration="2272000" />
       <workItem from="1609172651715" duration="595000" />
-      <workItem from="1609960733276" duration="13896000" />
+      <workItem from="1609960733276" duration="14126000" />
+      <workItem from="1610012567890" duration="2050000" />
+      <workItem from="1610114321387" duration="4522000" />
+      <workItem from="1611167355347" duration="3883000" />
+      <workItem from="1611172308165" duration="9347000" />
     </task>
     <task id="LOCAL-00001" summary="Cleanup readme.md">
       <created>1604910696533</created>
@@ -107,44 +148,35 @@
       <option name="project" value="LOCAL" />
       <updated>1606995571411</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Initial commit">
+      <created>1609982499346</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1609982499346</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Cleanup readme.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="Cleanup readme.md" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="1078" y="279" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1609972956146">
-      <screen x="0" y="25" width="1920" height="997" />
-    </state>
-    <state x="1078" y="279" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1920.23.1440.877/0.23.1920.1005@0.23.1920.1005" timestamp="1607000466684" />
-    <state x="1078" y="279" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1920.25.1440.875/0.25.1920.997@0.25.1920.997" timestamp="1609972956146" />
-    <state x="510" y="127" key="CommitChangelistDialog2" timestamp="1606995570643">
-      <screen x="0" y="23" width="1920" height="1004" />
-    </state>
-    <state x="510" y="127" key="CommitChangelistDialog2/1920.23.1440.877/0.23.1920.1004@0.23.1920.1004" timestamp="1606995570643" />
-    <state x="776" y="105" key="CommitChangelistDialog2/1920.23.1440.877/0.23.1920.1008@0.23.1920.1008" timestamp="1604910696141" />
-    <state x="829" y="431" key="Github.ShareDialog" timestamp="1604910635516">
-      <screen x="0" y="23" width="1920" height="1008" />
-    </state>
-    <state x="829" y="431" key="Github.ShareDialog/1920.23.1440.877/0.23.1920.1008@0.23.1920.1008" timestamp="1604910635516" />
-    <state x="770" y="239" key="Github.UntrackedFilesDialog" timestamp="1604910642409">
-      <screen x="0" y="23" width="1920" height="1008" />
-    </state>
-    <state x="770" y="239" key="Github.UntrackedFilesDialog/1920.23.1440.877/0.23.1920.1008@0.23.1920.1008" timestamp="1604910642409" />
-    <state x="560" y="266" key="Vcs.Push.Dialog.v2" timestamp="1606995589036">
-      <screen x="0" y="23" width="1920" height="1004" />
-    </state>
-    <state x="560" y="266" key="Vcs.Push.Dialog.v2/1920.23.1440.877/0.23.1920.1004@0.23.1920.1004" timestamp="1606995589036" />
-    <state x="560" y="267" key="Vcs.Push.Dialog.v2/1920.23.1440.877/0.23.1920.1008@0.23.1920.1008" timestamp="1604910698348" />
-    <state x="982" y="244" width="670" height="676" key="search.everywhere.popup" timestamp="1609981150590">
-      <screen x="0" y="25" width="1920" height="998" />
-    </state>
-    <state x="982" y="244" width="670" height="676" key="search.everywhere.popup/1920.25.1440.875/0.25.1920.998@0.25.1920.998" timestamp="1609981150590" />
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
   </component>
 </project>
