@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7013c24f-3bb3-4ac2-8aec-015a8faf9250" name="Default Changelist" comment="Herkansing">
+    <list default="true" id="7013c24f-3bb3-4ac2-8aec-015a8faf9250" name="Default Changelist" comment="Fix images not loading on github pages">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/info.html" beforeDir="false" afterPath="$PROJECT_DIR$/info.html" afterDir="false" />
@@ -86,7 +86,7 @@
       <workItem from="1610012567890" duration="2050000" />
       <workItem from="1610114321387" duration="4522000" />
       <workItem from="1611167355347" duration="3883000" />
-      <workItem from="1611172308165" duration="9688000" />
+      <workItem from="1611172308165" duration="9874000" />
     </task>
     <task id="LOCAL-00001" summary="Cleanup readme.md">
       <created>1604910696533</created>
@@ -116,7 +116,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611190994442</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Fix images not loading on github pages">
+      <created>1611191336304</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1611191336304</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -139,6 +146,7 @@
     <MESSAGE value="Cleanup readme.md" />
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Herkansing" />
-    <option name="LAST_COMMIT_MESSAGE" value="Herkansing" />
+    <MESSAGE value="Fix images not loading on github pages" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix images not loading on github pages" />
   </component>
 </project>
