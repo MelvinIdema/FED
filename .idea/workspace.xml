@@ -1,56 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7013c24f-3bb3-4ac2-8aec-015a8faf9250" name="Default Changelist" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/backup/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backup/gulpfile.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backup/images/avatar-blue-smiley.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backup/images/chromecast-icon.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backup/images/logos/alteredcarbon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backup/images/logos/familyguy.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backup/images/logos/greathacklogo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backup/images/logos/orangeisthenewblack.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backup/images/logos/rickandmorty.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backup/images/logos/strangerthings.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backup/images/netflix-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backup/images/the_crown_header-img-bad.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backup/images/the_crown_header-img.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backup/images/thegreathack.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backup/images/thumbnails/alteredcarbon.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backup/images/thumbnails/familyguy.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backup/images/thumbnails/orangeisthenewblack.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backup/images/thumbnails/rickandmorty.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backup/images/thumbnails/strangerthings.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backup/images/thumbnails/thegreathack.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backup/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backup/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backup/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backup/styles/components.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/great-hack-nserie-logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/thegreathackframe.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/info.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/readme_images/screenshot1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/readme_images/screenshot2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/readme_images/screenshot3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="7013c24f-3bb3-4ac2-8aec-015a8faf9250" name="Default Changelist" comment="Herkansing">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/header.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/previews.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/standard-row.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/tabbar.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/together.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/top-menu.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/watch.html" beforeDir="false" afterPath="$PROJECT_DIR$/backup/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gulpfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/gulpfile.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/backup/scripts/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/fontawesome.css" beforeDir="false" afterPath="$PROJECT_DIR$/backup/styles/fontawesome.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/backup/styles/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/info.html" beforeDir="false" afterPath="$PROJECT_DIR$/info.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,7 +86,7 @@
       <workItem from="1610012567890" duration="2050000" />
       <workItem from="1610114321387" duration="4522000" />
       <workItem from="1611167355347" duration="3883000" />
-      <workItem from="1611172308165" duration="9347000" />
+      <workItem from="1611172308165" duration="9688000" />
     </task>
     <task id="LOCAL-00001" summary="Cleanup readme.md">
       <created>1604910696533</created>
@@ -155,7 +109,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609982499346</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Herkansing">
+      <created>1611190994441</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1611190994442</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -177,6 +138,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Cleanup readme.md" />
     <MESSAGE value="Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+    <MESSAGE value="Herkansing" />
+    <option name="LAST_COMMIT_MESSAGE" value="Herkansing" />
   </component>
 </project>
